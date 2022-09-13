@@ -1,0 +1,83 @@
+body {
+    background-image: url("/portafolio/resources/img/fondo.png");
+    background-color: black;
+}
+
+.titulo {
+    margin-top: 3em;
+    margin-left: 6em;
+    text-align: left;
+    color: white;
+}
+
+.diego {
+    font-size: 12em;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+}
+
+.diego:hover {
+    text-shadow: 5px 5px cornflowerblue;
+}
+
+
+.yo-soy {
+    font-size: 8em;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+}
+
+.yo-soy:hover {
+    text-shadow: 5px 5px cornflowerblue;
+
+}
+
+.container button {
+    margin-top: 4em;
+    font-size: 2em;
+}
+ls
+.linki a:hover {
+    text-decoration: none;
+    color: cornflowerblue;
+}
+
+span a {
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 2em;
+    text-decoration: none;
+
+}
+
+.header {
+    margin-top: 3em;
+}
+
+.container img {
+    margin-left: 5em;
+    margin-top: 10em;
+    width: 200px;
+    height: 200px;
+    opacity: 0.8;
+}
+
+.about {
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-size: 2em;
+    color: white;
+    width: 100%;
+    text-align: justify;
+    margin-top: 4em;
+}
+
+.contacto-text {
+    font-size: 4em;
+    color: white;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    text-align: center;
+}
+.email {
+    font-size: 2em;
+    color: white;
+
+}
